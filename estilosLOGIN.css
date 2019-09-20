@@ -1,0 +1,39 @@
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+body{
+    background-color: #76b852;
+}
+.centrado{
+    margin:auto;
+    width: 50%;
+    text-align:center;
+    padding: 10px;
+    /*padding: 60px;
+    text-align: center;
+    padding-top: 50px;*/
+}
+.estiloDiv{
+
+    width:360px;
+    /*height: 200px;*/
+    box-sizing: border-box;
+    background-color: white;
+    display: inline-block;
+    text-align: center;
+    
+}
+.formulario{
+    width: 255px;
+    display: inline-block;
+    padding: 45px 45px 45px 45px;
+   /*height: 212px;*/
+}
+.inputs{
+    display: inline-block;
+    box-sizing: border-box;
+    height: 46px;
+    width: 255px;
+    padding-left: 15px;
+}
